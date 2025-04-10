@@ -1,0 +1,47 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="LIONEL MESSI" />
+    <node id="FC BARCELONA" />
+    <node id="ARGENTINA" />
+    <node id="COPA AM&#201;RICA" />
+    <node id="WORLD CUP" />
+    <node id="LA MASIA" />
+    <node id="NEYMAR JR." />
+    <node id="KYLIAN MBAPP&#201;" />
+    <node id="UEFA CHAMPIONS LEAGUE" />
+    <node id="PSG" />
+    <node id="LIGUE 1" />
+    <node id="INTER MIAMI" />
+    <node id="MAJOR LEAGUE SOCCER" />
+    <node id="BARCELONA" />
+    <node id="2022 WORLD CUP" />
+    <node id="MESSI" />
+    <node id="GOLDEN BALL" />
+    <node id="LA LIGA" />
+    <node id="CHAMPIONS LEAGUE" />
+    <node id="MLS" />
+    <edge source="LIONEL MESSI" target="FC BARCELONA" />
+    <edge source="LIONEL MESSI" target="ARGENTINA" />
+    <edge source="LIONEL MESSI" target="COPA AM&#201;RICA" />
+    <edge source="LIONEL MESSI" target="WORLD CUP" />
+    <edge source="LIONEL MESSI" target="LA MASIA" />
+    <edge source="LIONEL MESSI" target="NEYMAR JR." />
+    <edge source="LIONEL MESSI" target="KYLIAN MBAPP&#201;" />
+    <edge source="LIONEL MESSI" target="PSG" />
+    <edge source="LIONEL MESSI" target="INTER MIAMI" />
+    <edge source="LIONEL MESSI" target="BARCELONA" />
+    <edge source="LIONEL MESSI" target="2022 WORLD CUP" />
+    <edge source="FC BARCELONA" target="UEFA CHAMPIONS LEAGUE" />
+    <edge source="FC BARCELONA" target="LA MASIA" />
+    <edge source="ARGENTINA" target="MESSI" />
+    <edge source="ARGENTINA" target="2022 WORLD CUP" />
+    <edge source="PSG" target="LIGUE 1" />
+    <edge source="INTER MIAMI" target="MAJOR LEAGUE SOCCER" />
+    <edge source="INTER MIAMI" target="MESSI" />
+    <edge source="INTER MIAMI" target="MLS" />
+    <edge source="2022 WORLD CUP" target="MESSI" />
+    <edge source="MESSI" target="GOLDEN BALL" />
+    <edge source="MESSI" target="LA LIGA" />
+    <edge source="MESSI" target="CHAMPIONS LEAGUE" />
+  </graph>
+</graphml>
