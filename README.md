@@ -78,8 +78,11 @@ graphrag query --root ./messi_project --method global --query "What are Lionel M
 ## 🌐 Visualize the Knowledge Graph
 
 Here is snapshot of the created knowledge graph to explore relationships and insights about Lionel Messi.
- To visualize this graph save the graph.graphml file and then run the test 2.ipynb
-![Knowledge Graph Visualization](https://raw.githubusercontent.com/sa9arr/GraphRAG/main/images/graph.png)
+ To visualize this graph:
+ 1. save the graph.graphml file and then run the test 2.ipynb.
+    
+ 2. This creates a .html file, use the live server button to view the graph in your browser.
+ ![Knowledge Graph Visualization](https://raw.githubusercontent.com/sa9arr/GraphRAG/main/images/graph.png)
 
 ## 🔎 Snapshot of Queries
 Query1
