@@ -67,7 +67,7 @@ Ingested and indexed the document:
 graphrag index --root ./messi_project
 ```
 ---
-6. **🔎 Query the Graph **
+6. **🔎 Query the Graph**
 
 Performed queries on the indexed data:
 
@@ -75,6 +75,20 @@ Performed queries on the indexed data:
 graphrag query --root ./messi_project --method global --query "What are Lionel Messi's major achievements?"
 ```
 ---
+## 🌐 Visualize the Knowledge Graph
+
+Here is snapshot of the created knowledge graph to explore relationships and insights about Lionel Messi.
+ To visualize this graph save the graph.graphml file and then run the test 2.ipynb
+![Knowledge Graph Visualization](https://raw.githubusercontent.com/sa9arr/GraphRAG/main/images/graph.png)
+
+## 🔎 Snapshot of Queries
+Query1
+![Query](https://raw.githubusercontent.com/sa9arr/GraphRAG/main/images/query.png)
+Query2
+![Query](https://raw.githubusercontent.com/sa9arr/GraphRAG/main/images/query1.png)
+
+
+
 
    
   
@@ -97,8 +111,3 @@ graphrag query --root ./messi_project --method global --query "What are Lionel M
 
 
 
-Build hybrid vector + graph index
-
-Query information globally and locally
-
-Visualize the generated knowledge graph
